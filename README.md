@@ -56,29 +56,29 @@ This platform standardizes ingestion-to-curation workflows for financial dataset
 
 ## Key Components
 
-### 1. Batch Ingestion — Azure Data Factory
+### 1. Batch Ingestion - Azure Data Factory
 - Parameterized ADF pipelines ingesting retail banking transaction feeds
 - Reusable ingestion templates across multiple upstream banking source systems
 - Schema consistency enforcement across analytics and feature engineering datasets
 - Accelerated onboarding of new source systems by **40%**
 
-### 2. Real-Time Streaming — Event Hubs + Spark Structured Streaming
+### 2. Real-Time Streaming - Event Hubs + Spark Structured Streaming
 - Near-real-time transaction signal capture via **Azure Event Hubs**
 - **Spark Structured Streaming** pipelines supporting fraud monitoring and anomaly detection
 - Micro-batch processing for low-latency risk signal propagation
 
-### 3. Lakehouse Storage — Delta Lake on ADLS Gen2
+### 3. Lakehouse Storage - Delta Lake on ADLS Gen2
 - Medallion architecture (Bronze → Silver → Gold zones)
 - ACID transactions and time-travel on all financial datasets
 - Optimized compaction and Z-ordering for analytics query performance
 - Reconciliation effort reduced by **32%**
 
-### 4. Analytics & Feature Engineering — Databricks
+### 4. Analytics & Feature Engineering - Databricks
 - Credit risk scoring feature datasets for ML model training
 - Customer retention analytics experimentation datasets
 - Synapse SQL workload optimization with partition tuning — reporting refresh **28% faster**
 
-### 5. Governance — Azure Purview
+### 5. Governance - Azure Purview
 - End-to-end dataset lineage tracking across all pipeline layers
 - Audit-ready regulatory submission support
 - Trusted ML dataset traceability for risk and compliance teams
@@ -140,7 +140,7 @@ enterprise-risk-analytics-lakehouse/
 
 ## Author
 
-**Samhitha Alapati** — Senior Data Engineer
+**Samhitha Alapati** - Senior Data Engineer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square)](https://applywizz-samhitha-26024.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samhitha-alapati-data-engineer)
