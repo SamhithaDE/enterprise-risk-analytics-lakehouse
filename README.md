@@ -1,4 +1,4 @@
-# Enterprise Risk Analytics Lakehouse Platform
+# 🏦 Enterprise Risk Analytics Lakehouse Platform
 
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
 [![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://databricks.com)
@@ -135,12 +135,6 @@ enterprise-risk-analytics-lakehouse/
 └── docs/
     └── architecture.md         # Detailed architecture docs
 ```
-
----
-
-## Note on Code
-
-This project was developed in an enterprise financial environment. All code shared here is sanitized and does not contain any proprietary business logic, credentials, or customer data.
 
 ---
 
