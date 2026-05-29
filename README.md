@@ -6,7 +6,7 @@
 [![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)](https://spark.apache.org)
 [![Azure Purview](https://img.shields.io/badge/Azure_Purview-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-us/products/purview)
 
-> A governed financial lakehouse built on Azure for credit risk analytics, fraud monitoring, and regulatory reporting — processing multi-TB daily workloads with full audit traceability.
+> A governed financial lakehouse built on Azure for credit risk analytics, fraud monitoring, and regulatory reporting - processing multi-TB daily workloads with full audit traceability.
 
 ---
 
@@ -76,7 +76,7 @@ This platform standardizes ingestion-to-curation workflows for financial dataset
 ### 4. Analytics & Feature Engineering - Databricks
 - Credit risk scoring feature datasets for ML model training
 - Customer retention analytics experimentation datasets
-- Synapse SQL workload optimization with partition tuning — reporting refresh **28% faster**
+- Synapse SQL workload optimization with partition tuning - reporting refresh **28% faster**
 
 ### 5. Governance - Azure Purview
 - End-to-end dataset lineage tracking across all pipeline layers
