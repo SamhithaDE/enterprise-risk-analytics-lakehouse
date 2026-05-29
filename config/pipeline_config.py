@@ -2,7 +2,7 @@
 Pipeline Configuration Manager
 --------------------------------
 Centralizes all environment-specific settings for the Risk Analytics
-Lakehouse pipelines. Secrets are resolved from Azure Key Vault at runtime —
+Lakehouse pipelines. Secrets are resolved from Azure Key Vault at runtime -
 never hardcoded here.
 """
 
